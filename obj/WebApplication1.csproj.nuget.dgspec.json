@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\training\\JenkinsAssignment\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\training\\JenkinsAssignment\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\training\\JenkinsAssignment\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\training\\JenkinsAssignment\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\training\\JenkinsAssignment\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\training\\JenkinsAssignment\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\training\\JenkinsAssignment\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\training\\JenkinsAssignment\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\MAgrawal\\.nuget\\packages\\",
-        "outputPath": "C:\\training\\JenkinsAssignment\\WebApplication1\\obj\\",
+        "outputPath": "C:\\training\\JenkinsAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
